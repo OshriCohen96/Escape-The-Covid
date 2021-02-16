@@ -9,7 +9,7 @@ The vaccine also gain you a shield,and the mask gain you a bullet's that can kil
 
 Full localization to English and Hebrew
  <br /> 
- Hope you enjoy playing the my game  :)
+ Hope you enjoy playing  my game  :)
  
 <br /> 
 <p align="center">
