@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ברח מהקורונה</string>
+    <string name="devlop">פותח על ידי</string>
+    <string name="names">אושרי כהן ומור אופיר</string>
+    <string name="scoreTxt">ניקוד :</string>
+    <string name="play">התחל משחק</string>
+    <string name="rating">טבלת הטובים ביותר</string>
+    <string name="end">יציאה</string>
+    <string name="gameOver">המשחק נגמר</string>
+    <string name="playAgain">שחק שוב</string>
+    <string name="highScore2">הטובים ביותר</string>
+    <string name="tos_txt1">לחץ שוב ליציאה</string>
+    <string name="numOfBullets">כדורים:</string>
+    <string name="highscorelist">הטובים ביותר</string>
+    <string name="submit">הוסף</string>
+    <string name="pointsgame">הניקוד שלך :</string>
+    <string name="hintstring">הכנס את שמך</string>
+    <string name="toastlastchance">ניסיון אחרון !</string>
+    <string name="shild">מוגן מאויבים !</string>
+    <string name="submit2">נוסף בהצלחה!</string>
+    <string name="floorIsLava">אסור לגעת בקרקע</string>
+    <string name="enter_name">הכנס שם</string>
+    <string name="names2">שמות</string>
+    <string name="nameNull">חייב להכניס שם</string>
+    <string name="lifeUp">Gathered 3 Syringes, life up!</string>
+</resources>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Escape The Covid</string>
+    <string name="devlop">Developed by</string>
+    <string name="names">Mor Ofir and Oshri Cohen</string>
+    <string name="scoreTxt">Score:</string>
+    <string name="play">Start game</string>
+    <string name="rating">High Scores</string>
+    <string name="end">Exit</string>
+    <string name="gameOver">Game Over</string>
+    <string name="playAgain">Play Again</string>
+    <string name="highScore">High Score:</string>
+    <string name="highScore2">High Score</string>
+    <string name="title_activity_high_score">highScoreActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="tos_txt1">Click again to exit</string>
+    <string name="enter_name">Enter name</string>
+    <string name="submit">Submit</string>
+    <string name="names2">Names</string>
+    <string name="numOfBullets">Bullets:</string>
+    <string name="highscorelist">Leader Board</string>
+    <string name="pointsgame">Your score :</string>
+    <string name="hintstring">Enter your name</string>
+    <string name="toastlastchance">Last Chance!</string>
+    <string name="shild">Cant touch this!</string>
+    <string name="submit2">Score Submitted!</string>
+    <string name="floorIsLava">Can\'t touch the ground</string>
+    <string name="nameNull">Name cannot be empty</string>
+    <string name="lifeUp">Gathered 3 Syringes, life up!</string>
+</resources>
